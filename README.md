@@ -1,2 +1,2 @@
 # Python_english
-Python code's made by me.
+Códigos realizados na linguagem Python por mim.
