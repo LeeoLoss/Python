@@ -1,0 +1,15 @@
+nome = 'Leonardo'
+sobrenome ='Loss'
+idade = 22
+ano_nascimento = 2024 - idade
+maioridade = idade>=18
+altura = 1.77
+
+print('Nome:' , nome)
+print('Sobrenome: ', sobrenome)
+print('Idade:' , idade)
+print('Ano de Nascimento:', ano_nascimento)
+print('É maior de idade?: ', maioridade)
+print('Altura: ', altura)
+
+print('Cadastro finalizado.')
